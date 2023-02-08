@@ -2,27 +2,11 @@
 
 ## Table of Contents
 * [Project Description](#project-description)
-* [Installation Instructions](#installation-instructions)
-* [Usage Information](#usage-information)
-* [Walkthrough Tutorial](#walkthrough-tutorial)
-* [Test Instructions](#test-instructions)
 * [Contributors](#contributors)
 * [Contact Me](#contact-me)
 
 ## Project Description
-
-
-## Installation Instructions
-
-
-## Usage Information
-
-
-## Walkthrough Tutorial
-[click]()
-
-
-## Test Instructions
+This app allows you to take, delete, add, and update notes!
 
 
 ## Contributors

@@ -1,5 +1,5 @@
 //establishing port as local host
-// const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3001;
 
 const fs = require('fs');
 const path = require('path');
